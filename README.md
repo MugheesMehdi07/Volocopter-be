@@ -1,6 +1,3 @@
-Below is a sample `README.md` template for your drone simulation project, including sections on file parsing, drone movement logic, and how to run tests. You should customize this template to fit the specific details and requirements of your project.
-
----
 
 # Drone Simulation Project
 
