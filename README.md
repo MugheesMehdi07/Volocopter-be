@@ -6,6 +6,9 @@ Below is a sample `README.md` template for your drone simulation project, includ
 
 This drone simulation project simulates the movement of a drone within a 3D environment based on commands read from a text file. The simulation accounts for the boundaries of the environment and prevents the drone from moving outside these boundaries.
 
+
+You check basic flow here : https://www.figma.com/file/dkJsGnlyrjbLFAJwgFWYYa/Volodrone-Test?type=whiteboard&node-id=0%3A1&t=3mOEl7TEUgZcaTqE-1
+
 ## Features
 
 - **Environment Setup**: Defines a 3D space where the drone can move.
