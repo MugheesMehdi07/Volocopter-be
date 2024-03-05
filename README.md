@@ -15,7 +15,7 @@ You check basic flow here : https://www.figma.com/file/dkJsGnlyrjbLFAJwgFWYYa/Vo
 
 ## Setup
 
-Ensure Python 3.9 or newer is installed on your system. No external libraries are required for the main application, but you will need `pytest` for running tests.
+Ensure Python 3.6 or newer is installed on your system. No external libraries are required for the main application, but you will need `pytest` for running tests.
 
 ```bash
 pip install pytest
@@ -56,7 +56,7 @@ The drone responds to commands parsed from the file, moving within the 3D space 
 To run the simulation, execute the following command, replacing `input.txt` with the path to your input file:
 
 ```bash
-python drone_simulator.py commands.txt
+python main.py commands.txt
 ```
 
 ## Testing
